@@ -27,9 +27,8 @@ The following topics will be covered
 ## Section 0 - Fundementals (instructor led presentation)
 
 ## Section 1 - Accessing the lab
-- [Exercise 1.0 - How to Access UDF](section1)   
-- [Exercise 1.1 - Setup AWS Access Key & Secret Key](section1.1)   
- - [Exercise 1.2 - Subscribe to BIG-IP on AWS Market Place](1-ex/2-ex/3-ex)
+- [Exercise 1.0 - Explore UDF and access AWS environment](section1)   
+- [Exercise 1.1 - Subscribe to F5 BIG-IP from AWS marketplace](section1.1)   
 
 ## Section 2 - Configure Dyanamic Service Automation
 - [Exercise 2.1 - Explore the workshop code](https://github.com/hashicorp/f5-terraform-consul-sd-webinar)
