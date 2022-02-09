@@ -28,7 +28,7 @@ The following topics will be covered
 
 ## Section 1 - Accessing the lab
 - [Exercise 1.0 - How to Access UDF](section1)   
- - [Exercise 1.1 - Setup AWS Access Key & Secret Key](1-ex/2-ex)   
+- [Exercise 1.1 - Setup AWS Access Key & Secret Key](section1.1)   
  - [Exercise 1.2 - Subscribe to BIG-IP on AWS Market Place](1-ex/2-ex/3-ex)
 
 ## Section 2 - Configure Dyanamic Service Automation
