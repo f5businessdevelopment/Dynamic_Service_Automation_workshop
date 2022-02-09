@@ -27,7 +27,7 @@ The following topics will be covered
 ## Section 0 - Fundementals (instructor led presentation)
 
 ## Section 1 - Accessing the lab
-- [Exercise 1.0 - How to Access UDF](1-ex)   
+- [Exercise 1.0 - How to Access UDF](section1)   
  - [Exercise 1.1 - Setup AWS Access Key & Secret Key](1-ex/2-ex)   
  - [Exercise 1.2 - Subscribe to BIG-IP on AWS Market Place](1-ex/2-ex/3-ex)
 
