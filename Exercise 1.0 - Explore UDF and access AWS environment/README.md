@@ -17,7 +17,7 @@
 4. Ensure the 'Region' is ``` us-west-2 ```
    
 5. On the browser, under the deployment tab, click on **Cloud Accounts** and look for the **API Key** and **API Secret** as shown below
-![alt text](../images/cloudaccount.png)
+   ![alt text](../images/cloudaccount.png)
 
 6. Copy the **API Key** & **API Secret key** into your clipboard
 
