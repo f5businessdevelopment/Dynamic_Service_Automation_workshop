@@ -8,5 +8,5 @@ Search for **F5 BIG-IP Virtual Edition - BEST (PAYG, 1Gbps)**, Subscribe to the 
 - Wait till the **pending** goes away and you get the date as shown
    ![alt text](../images/pay3.png)
 
-
+[GoTo Next Exercise1.1](4-ex)
 [GoBack](../README.md)

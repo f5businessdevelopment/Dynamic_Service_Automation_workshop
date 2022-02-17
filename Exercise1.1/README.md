@@ -45,4 +45,5 @@
 You now have access to your AWS environment. We are now ready to deploy and configure our infrastructure. Go to [Exercise1.2](../Exercise1.2) to subscribe to a trial versiono of F5 BIG-IP from AWS marketplace. 
 
 
+[GoTo Next Exercise1.2](../Exercise1.1/README.md)
 [GoBack](../README.md)
