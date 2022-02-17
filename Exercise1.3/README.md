@@ -4,10 +4,4 @@ Here we will be accessing the jump box or ubuntu server to run the terraform scr
 
    ![alt text](../images/udflogin.png)
 
-2. Change the directory ```cd f5-terraform-consul-sd-webinar/terraform```
-
-3. Run ```terraform apply -auto-approve```
-
-4. You should see IP addresses, SSH and passsword details for your infrastructure.
-   ![alt text](../images/instruct.png)
-
+[GoBack](../README.md)
