@@ -11,7 +11,7 @@ This workshop will cover:
 -  Using COnsul and Terraform to congfigure dynamic service automation on BIG-IP 
 
 **Note:** 
-If you have any questions or issues, [Click here to open an issue](https://github.com/f5businessdevelopment/F5_NIA_workshop/issues)
+If you have any questions or issues, [Click here to open an issue](https://github.com/f5businessdevelopment/Dynamic_Service_Automation_workshop/issues)
 
 **Pre-requisites**
 
