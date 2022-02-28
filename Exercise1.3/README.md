@@ -5,5 +5,11 @@ Here we will be accessing the jump box or ubuntu server to run the terraform scr
    ![alt text](../images/accessbuntu.png)
 
    ![alt text](../images/udflogin.png)
+Change Directory 
+
+```
+cd f5-terraform-consul-sd-webinar/
+
+```
 
 [GoBack](../README.md)
