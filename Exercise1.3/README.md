@@ -5,7 +5,8 @@ Here we will be accessing the jump box or ubuntu server to run the terraform scr
    ![alt text](../images/accessbuntu.png)
 
    ![alt text](../images/udflogin.png)
-Change Directory 
+
+- Change Directory to as shown below, this we need to do inorder to run the terraform scripts for infra deployment. 
 
 ```
 cd f5-terraform-consul-sd-webinar/
