@@ -1,6 +1,6 @@
 - Login to AWS Console by going to UDF Blueprint –> Cloud Accounts –> Console URL
-[Click on the link](https://aws.amazon.com/marketplace/pp?sku=3ouya04g99e5euh4vbxtao1jz) to subscribe for the BIG-IP VE
-or copy and paste the link https://aws.amazon.com/marketplace/pp?sku=3ouya04g99e5euh4vbxtao1jz
+- [Click on the link](https://aws.amazon.com/marketplace/pp?sku=3ouya04g99e5euh4vbxtao1jz) to subscribe for the BIG-IP VE
+- Or copy and paste the link https://aws.amazon.com/marketplace/pp?sku=3ouya04g99e5euh4vbxtao1jz in the browser
 
 Search for **F5 BIG-IP Virtual Edition - BEST (PAYG, 1Gbps)**, Subscribe to the trial service and click 'Accept'.
 
