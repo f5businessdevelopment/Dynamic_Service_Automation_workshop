@@ -40,7 +40,7 @@
     AWS Secret Access Key [****************QmTY]:XXXXXXXXXXX
 ```
 
-  **Note:** You can also export the keys if you wish. 
+  **Note:**  Let region be default us-west-2
 
 You now have access to your AWS environment. We are now ready to deploy and configure our infrastructure. Go to [Exercise1.2](../Exercise1.2) to subscribe to a trial versiono of F5 BIG-IP from AWS marketplace. 
 
