@@ -9,7 +9,7 @@
 
 Search for **F5 BIG-IP Virtual Edition - GOOD (PAYG, 1Gbps)**, Subscribe to the trial service and click 'Accept'.
 
-##Note:##  Once you hit Accept it will take atleast one minute to change the pending status
+**Note:**  Once you hit Accept it will take atleast one minute to change the pending status
 
 ![alt text](../images/pay1.png)
    ![alt text](../images/pay2.png)
