@@ -32,14 +32,13 @@ The following topics will be covered
 - [Exercise 1.3 - Login to Ubuntu using Web Shell](Exercise1.3)   
 
 ## Section 2 - Configure Dyanamic Service Automation
-- [Exercise 2.1 - Explore the workshop code](https://github.com/hashicorp/f5-terraform-consul-sd-webinar)
 
 For the below exercises students are encouraged to use the publicly available [self paced learn guide](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation). 
 
 The learn guide covers the following exercises
 
-- [Exercise 2.2 - Deploy the consul datacenter and F5 BIG-IP](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation#deploy-consul-datacenter-and-f5-big-ip)
-- [Exercise 2.3 - Deploy FAST](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation#deploy-fast-template)
-- [Exercise 2.4 - Configure Network Infrastructure Automation (NIA)](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation#network-infrastructure-automation)
-- [Exercise 2.5 - Test configured automation](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation#test-automation)
-- [Exercise 2.6 - Cleanup environment](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation#clean-your-environment)
+- [Exercise 2.1 - Deploy the consul datacenter and F5 BIG-IP](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation#deploy-consul-datacenter-and-f5-big-ip)
+- [Exercise 2.2 - Deploy FAST](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation#deploy-fast-template)
+- [Exercise 2.3 - Configure Network Infrastructure Automation (NIA)](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation#network-infrastructure-automation)
+- [Exercise 2.4 - Test configured automation](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation#test-automation)
+- [Exercise 2.5 - Cleanup environment](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation#clean-your-environment)
