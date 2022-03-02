@@ -1,5 +1,7 @@
 - Login to AWS Console by going to UDF Blueprint –> Cloud Accounts –> Console URL
   (We are logging into AWS Console to subscribe BIG-IP VE)
+
+   ![alt text](../images/awspass.png)
    ![alt text](../images/login.png)
   
    (Use this link to subscribe to VE on AWS)
