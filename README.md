@@ -22,7 +22,7 @@ We will use Unified Demo Framework (UDF) to run through the exercises in this wo
 The following topics will be covered
 
 ### Section 0 - Fundementals (instructor led presentation)
-- [Link to Presentation](https://docs.google.com/presentation/d/1U7oN2FGHMV99JSsqVLTsSS8SB60bKxU0/edit?usp=sharing&ouid=102229261827313379016&rtpof=true&sd=true)
+- [Link to Presentation](https://drive.google.com/file/d/1cWYSZMRGOjkjrOOHBf6yRJp3eyMymQ4k/view?usp=sharing)
 
 ### Section 1 - Accessing the lab
 - [Exercise 1.1 - Explore UDF and access AWS environment](Exercise1.1)   
