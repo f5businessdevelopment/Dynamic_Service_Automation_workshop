@@ -1,6 +1,7 @@
 # Accessing the Lab using UDF. Setup AWS Access key and secret.
 
 1. Prior to this workshop, student must have received an email with your login instructions and a link to access the UDF course.
+   We need this to access and deploy  infrastructure on AWS for this lab. 
 
    ![alt text](../images/emailclick.png)
    
@@ -11,6 +12,7 @@
    ![alt text](../images/click_on_join.png)
    
 3. Click on DEPLOYMENT buttom on the top left to begin provisioning your personal lab access server and network in AWS.
+   Here we are creating a ubuntu server to access to AWS resources
 
    ![alt text](../images/click_ondeployment.png)
 

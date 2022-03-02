@@ -9,7 +9,7 @@
 - [Click on the link](https://aws.amazon.com/marketplace/pp?sku=8esk90vx7v713sa0muq2skw3j) to subscribe for the BIG-IP VE
 - Or copy and paste the link https://aws.amazon.com/marketplace/pp?sku=8esk90vx7v713sa0muq2skw3j in the browser
 
-Search for **F5 BIG-IP Virtual Edition - GOOD (PAYG, 1Gbps)**, Subscribe to the trial service and click 'Accept'.
+Search for **F5 BIG-IP Virtual Edition - GOOD (PAYG, 25Mbps)**, Subscribe to the trial service and click 'Accept'.
 
 **Note:**  Once you hit Accept it will take atleast one minute to change the pending status
 
