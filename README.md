@@ -24,12 +24,12 @@ The following topics will be covered
 ### Section 0 - Fundementals (instructor led presentation)
 - [Link to Presentation](https://docs.google.com/presentation/d/1U7oN2FGHMV99JSsqVLTsSS8SB60bKxU0/edit?usp=sharing&ouid=102229261827313379016&rtpof=true&sd=true)
 
-## Section 1 - Accessing the lab
+### Section 1 - Accessing the lab
 - [Exercise 1.1 - Explore UDF and access AWS environment](Exercise1.1)   
 - [Exercise 1.2 - Subscribe to F5 BIG-IP from AWS marketplace](Exercise1.2)   
 - [Exercise 1.3 - Login to Ubuntu using Web Shell](Exercise1.3)   
 
-## Section 2 - Configure Dyanamic Service Automation
+### Section 2 - Configure Dyanamic Service Automation
 
 For the below exercises students are encouraged to use the publicly available [self paced learn guide](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation). 
 
