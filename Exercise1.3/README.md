@@ -12,5 +12,6 @@ Here we will be accessing the **ubuntu** server to run the terraform scripts,
 cd f5-terraform-consul-sd-webinar/
 
 ```
-**Note** Now we are ready for Section 2.X ( Which is HAshiCorp Learn Guide Please Hit GoBack below to follow) 
+**Note** Now we are ready for Section 2.X ( Which is HashiCorp Learn Guide Please Hit GoBack below to follow) 
+
 [GoBack](../README.md)

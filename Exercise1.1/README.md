@@ -17,8 +17,11 @@
    ![alt text](../images/click_ondeployment.png)
 
 4. Ensure the 'Region' is ``` us-west-2 ```
+   Currently the lab is only design for AWS resources in us-west-2
+
    
 5. On the browser, under the deployment tab, click on **Cloud Accounts** and look for the **API Key** and **API Secret** as shown below
+   We will be using these AWS Secret Keys to authenticate the AWS Cloud to create infrastructure.
 
    ![alt text](../images/cloudaccount.png)
 
@@ -29,6 +32,7 @@
    ![alt text](../images/your_deployment.png)
     
 8. Once you are on the CLI, at the prompt type: ``` login udf ``` & when prompted for Password, type ``` udf ```
+   Our username for the ubuntu server  is ```udf``` we will use this account to create resources on AWS
 
    ![alt text](../images/less1-4.png)
 
