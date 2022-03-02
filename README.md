@@ -31,7 +31,7 @@ The following topics will be covered
 
 ### Section 2 - Configure Dyanamic Service Automation
 
-For the below exercises students are encouraged to use the publicly available [self paced learn guide](https://learn.hashicorp.com/tutorials/consul/consul-terraform-sync-f5-bigip-fast?in=consul/network-infrastructure-automation). 
+For the below exercises students are encouraged to use the publicly available **self paced learn guide** (HashiCorp learn guide)
 
 The learn guide covers the following exercises
 
