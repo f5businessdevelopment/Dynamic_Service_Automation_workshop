@@ -21,7 +21,7 @@ We will use Unified Demo Framework (UDF) to run through the exercises in this wo
 
 The following topics will be covered
 
-# Section 0 - Fundementals (instructor led presentation)
+### Section 0 - Fundementals (instructor led presentation)
 - [Link to Presentation](https://docs.google.com/presentation/d/1U7oN2FGHMV99JSsqVLTsSS8SB60bKxU0/edit?usp=sharing&ouid=102229261827313379016&rtpof=true&sd=true)
 
 ## Section 1 - Accessing the lab
