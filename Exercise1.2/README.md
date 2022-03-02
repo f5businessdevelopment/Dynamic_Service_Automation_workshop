@@ -16,7 +16,7 @@ Search for **F5 BIG-IP Virtual Edition - GOOD (PAYG, 1Gbps)**, Subscribe to the 
 ![alt text](../images/pay1.png)
    ![alt text](../images/pay2.png)
 
-- Wait till the **pending** goes away and you get the date as shown
+- Wait for the effective date to change from **pending** to an actual date
    ![alt text](../images/pay3.png)
 
 [GoTo Next Exercise1.3](../Exercise1.3)
