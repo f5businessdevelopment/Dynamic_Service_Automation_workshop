@@ -1,3 +1,4 @@
+# Exercise 1.2 - Subscribe to F5 BIG-IP from AWS marketplace
 - Login to AWS Console by going to UDF Blueprint –> Cloud Accounts –> Console URL
   (We are logging into AWS Console to subscribe BIG-IP VE)
 

@@ -1,4 +1,4 @@
-# Accessing the Lab using UDF. Setup AWS Access key and secret.
+# Exercise 1.1 - Explore UDF and access AWS environment.
 
 1. Prior to this workshop, student must have received an email with your login instructions and a link to access the UDF course.
    We need this to access and deploy  infrastructure on AWS for this lab. 
