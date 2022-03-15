@@ -19,6 +19,8 @@ To get the most out of this training, the student should already have some basic
 
 We will use Unified Demo Framework (UDF) to run through the exercises in this workshop. The content is a multi-purpose toolkit for demonstrating BIG-IP automation capabilities using Terraform and Consul in various forms -- instructor led, hands-on or self paced.
 
+## Architecture
+![Demo Arch](images/f5_arch.png)
 The following topics will be covered
 
 ### Section 0 - Fundementals (instructor led presentation)
